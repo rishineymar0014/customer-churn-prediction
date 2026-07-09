@@ -1,5 +1,8 @@
 # Customer Churn Prediction using Machine Learning
 
+## Live Demo
+**Streamlit App:** https://customer-churn-prediction-rishi.streamlit.app
+
 A Machine Learning web application built with **Python**, **Scikit-learn**, and **Streamlit** to predict whether a telecom customer is likely to churn based on customer information. The application provides real-time predictions through an interactive and user-friendly web interface.
 
 ---
@@ -172,8 +175,6 @@ streamlit run app.py
 ## Author
 
 **Rishi Kumar**
-
-Aspiring Data Scientist | Machine Learning Enthusiast
 
 GitHub: https://github.com/rishineymar0014
 
