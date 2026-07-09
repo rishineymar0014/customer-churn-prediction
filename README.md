@@ -111,7 +111,7 @@ Actual Yes    185     188
 
 ### Prediction Example - Customer Will Stay
 
-![Customer Will Stay](screenshots/customer_will_stay.png)
+![Customer Will Stay](screenshots/customer_will_not_leave.png)
 
 ---
 
